@@ -62,6 +62,6 @@ modules:
     sources:
       - type: git
         url: https://github.com/arteeh/pinetime-flasher.git
-        tag: 1.1
+        tag: 1.2
      #- type: dir
      #  path: /home/arteeh/git/pinetime-flasher
